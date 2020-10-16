@@ -1,0 +1,272 @@
+{
+  "R3S": [
+    "ClinVar"
+  ],
+  "R15H": [
+    "ClinVar"
+  ],
+  "K23R": [
+    "ClinVar"
+  ],
+  "R24K": [
+    "ClinVar"
+  ],
+  "G27A": [
+    "ClinVar"
+  ],
+  "L38Q": [
+    "ClinVar"
+  ],
+  "V65G": [
+    "ClinVar"
+  ],
+  "R3G": [
+    "DDD"
+  ],
+  "K5M": [
+    "DDD"
+  ],
+  "R15C": [
+    "DDD"
+  ],
+  "R15P": [
+    "DDD"
+  ],
+  "K30N": [
+    "DDD"
+  ],
+  "Y33D": [
+    "DDD"
+  ],
+  "S36R": [
+    "DDD"
+  ],
+  "R79P": [
+    "DDD"
+  ],
+  "R89K": [
+    "gnomAD_MEF2C"
+  ],
+  "S50G": [
+    "gnomAD_MEF2C"
+  ],
+  "V37L": [
+    "gnomAD_MEF2C"
+  ],
+  "V37M": [
+    "gnomAD_MEF2C",
+    "gnomAD_MEF2B"
+  ],
+  "R10C": [
+    "gnomAD_MEF2A",
+    "gnomAD_MEF2B"
+  ],
+  "R10S": [
+    "gnomAD_MEF2A"
+  ],
+  "M12L": [
+    "gnomAD_MEF2A"
+  ],
+  "L28F": [
+    "gnomAD_MEF2A"
+  ],
+  "M29L": [
+    "gnomAD_MEF2A"
+  ],
+  "L35F": [
+    "gnomAD_MEF2A"
+  ],
+  "D40E": [
+    "gnomAD_MEF2A"
+  ],
+  "F48V": [
+    "gnomAD_MEF2A"
+  ],
+  "S50T": [
+    "gnomAD_MEF2A"
+  ],
+  "N52D": [
+    "gnomAD_MEF2A"
+  ],
+  "F55V": [
+    "gnomAD_MEF2A"
+  ],
+  "Q56E": [
+    "gnomAD_MEF2A"
+  ],
+  "D61N": [
+    "gnomAD_MEF2A",
+    "gnomAD_MEF2D"
+  ],
+  "D61H": [
+    "gnomAD_MEF2A"
+  ],
+  "M62T": [
+    "gnomAD_MEF2A"
+  ],
+  "D63G": [
+    "gnomAD_MEF2A"
+  ],
+  "N73S": [
+    "gnomAD_MEF2A",
+    "gnomAD_MEF2D"
+  ],
+  "S82L": [
+    "gnomAD_MEF2A"
+  ],
+  "V85A": [
+    "gnomAD_MEF2A"
+  ],
+  "N89K": [
+    "gnomAD_MEF2A"
+  ],
+  "R3K": [
+    "gnomAD_MEF2B"
+  ],
+  "K4Q": [
+    "gnomAD_MEF2B"
+  ],
+  "Q7R": [
+    "gnomAD_MEF2B"
+  ],
+  "R10P": [
+    "gnomAD_MEF2B"
+  ],
+  "R10H": [
+    "gnomAD_MEF2B"
+  ],
+  "R17W": [
+    "gnomAD_MEF2B"
+  ],
+  "R17Q": [
+    "gnomAD_MEF2B"
+  ],
+  "R24W": [
+    "gnomAD_MEF2B"
+  ],
+  "G27R": [
+    "gnomAD_MEF2B"
+  ],
+  "L28V": [
+    "gnomAD_MEF2B"
+  ],
+  "A32D": [
+    "gnomAD_MEF2B"
+  ],
+  "Y33C": [
+    "gnomAD_MEF2B"
+  ],
+  "E34D": [
+    "gnomAD_MEF2B"
+  ],
+  "A44G": [
+    "gnomAD_MEF2B"
+  ],
+  "I46T": [
+    "gnomAD_MEF2B"
+  ],
+  "N49S": [
+    "gnomAD_MEF2B",
+    "gnomAD_MEF2D"
+  ],
+  "A51T": [
+    "gnomAD_MEF2B"
+  ],
+  "N52K": [
+    "gnomAD_MEF2B"
+  ],
+  "N52S": [
+    "gnomAD_MEF2B",
+    "gnomAD_MEF2D"
+  ],
+  "R53C": [
+    "gnomAD_MEF2B"
+  ],
+  "R53H": [
+    "gnomAD_MEF2B"
+  ],
+  "T60M": [
+    "gnomAD_MEF2B"
+  ],
+  "M62V": [
+    "gnomAD_MEF2B"
+  ],
+  "M62I": [
+    "gnomAD_MEF2B"
+  ],
+  "R64C": [
+    "gnomAD_MEF2B"
+  ],
+  "R64H": [
+    "gnomAD_MEF2B"
+  ],
+  "S73G": [
+    "gnomAD_MEF2B"
+  ],
+  "S73R": [
+    "gnomAD_MEF2B"
+  ],
+  "E74K": [
+    "gnomAD_MEF2B"
+  ],
+  "E77K": [
+    "gnomAD_MEF2B"
+  ],
+  "S78N": [
+    "gnomAD_MEF2B"
+  ],
+  "R79C": [
+    "gnomAD_MEF2B"
+  ],
+  "R79H": [
+    "gnomAD_MEF2B"
+  ],
+  "T82S": [
+    "gnomAD_MEF2B"
+  ],
+  "I84M": [
+    "gnomAD_MEF2B"
+  ],
+  "E86K": [
+    "gnomAD_MEF2B"
+  ],
+  "T87M": [
+    "gnomAD_MEF2B"
+  ],
+  "L88M": [
+    "gnomAD_MEF2B"
+  ],
+  "K89R": [
+    "gnomAD_MEF2B"
+  ],
+  "R90W": [
+    "gnomAD_MEF2B"
+  ],
+  "R90N": [
+    "gnomAD_MEF2B"
+  ],
+  "R91K": [
+    "gnomAD_MEF2B"
+  ],
+  "D13N": [
+    "gnomAD_MEF2D"
+  ],
+  "R15W": [
+    "gnomAD_MEF2D"
+  ],
+  "R15Q": [
+    "gnomAD_MEF2D"
+  ],
+  "E34Q": [
+    "gnomAD_MEF2D"
+  ],
+  "H50Q": [
+    "gnomAD_MEF2D"
+  ],
+  "A82T": [
+    "gnomAD_MEF2D"
+  ],
+  "K80R": [
+    "gnomAD_MEF2D"
+  ]
+}
